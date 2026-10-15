@@ -1,0 +1,5 @@
+"variable","test","statistic","df1","df2","p_value"
+"age","One-way ANOVA",0.643105676517674,4,1491,0.631803719046719
+"female","Pearson chi-squared",4.59725388685341,4,,0.331170927607028
+"university","Pearson chi-squared",2.84108828941933,4,,0.584761167011244
+"visited","Pearson chi-squared",6.48638638253557,4,,0.165650174912325
